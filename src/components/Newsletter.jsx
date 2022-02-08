@@ -33,8 +33,10 @@ const InputContainer = styled.div`
 `
 const Input = styled.input`
     border: none;
+    font-size: 16px;
     flex: 8;
     padding-left: 20px;
+    outline: none;
 `
 const Button = styled.button`
     flex: 1;
